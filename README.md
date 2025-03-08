@@ -8,3 +8,6 @@ Welcome to the "Ban's Cakes" project! This website is a showcase of simple cakes
 - **Responsive Design**: The gallery adapts to different screen sizes.
 - **Custom Styling**: Using a unique blend of fonts and backgrounds to give a warm, welcoming vibe.
 
+
+## Click to see the website
+https://banreqib.github.io/My-Cakes/
